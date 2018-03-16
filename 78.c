@@ -1,6 +1,5 @@
 #include<stdio.h>
-void main()
-{
+void main(){
     int n;
     printf("enter the number");
     scanf("%d",&n);
@@ -9,5 +8,4 @@ void main()
     }
     else{
         printf("no");
-    }
-}
+    }}
